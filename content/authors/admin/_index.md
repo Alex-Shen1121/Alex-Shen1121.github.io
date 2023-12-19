@@ -53,34 +53,44 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
+      - name: Java
+        description: ''
+        percent: 90
+        icon: java
+        icon_pack: fab
+      - name: Artificial Intelligence
+        description: ''
+        percent: 80
+        icon: brain
+        icon_pack: fas
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
+  - name: Backend Programming
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Spring
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 70
+        icon: code
         icon_pack: fas
-      - name: Cats
+      - name: SpringMVC
         description: ''
-        percent: 100
-        icon: cat
+        percent: 70
+        icon: codepen
         icon_pack: fas
-      - name: Photography
+      - name: MyBatis
+        description: ''
+        percent: 70
+        icon: file-code
+        icon_pack: fas
+      - name: SpringBoot
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: gear
         icon_pack: fas
 
 # Social/Academic Networking
@@ -116,6 +126,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
