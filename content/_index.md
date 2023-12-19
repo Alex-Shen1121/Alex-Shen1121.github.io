@@ -71,6 +71,7 @@ sections:
           date_end: '2022-09-19'
           description: |2-
               Background: Design and implement the graph-based model for equipment anti-fraud, provide guarantee for financial risk control, and find out the potential black-ashes. 
+
               Responsibilities include:
 
               * Analysing data
