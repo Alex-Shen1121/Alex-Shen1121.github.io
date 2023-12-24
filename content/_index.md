@@ -260,14 +260,14 @@ sections:
       #   latitude: '37.4275'
       #   longitude: '-122.1697'  
       # contact_links:
-      #   - icon: twitter
-      #     icon_pack: fab
-      #     name: DM Me
-      #     link: 'https://twitter.com/Twitter'
-      #   - icon: skype
-      #     icon_pack: fab
-      #     name: Skype Me
-      #     link: 'skype:echo123?call'
+        - icon: csdn
+          icon_pack: fab
+          name: DM Me
+          link: 'https://blog.csdn.net/pigpigpig64?spm=1000.2115.3001.5343'
+        - icon: github
+          icon_pack: fab
+          name: Star me on Github
+          link: 'https://github.com/Alex-Shen1121'
       #   - icon: video
       #     icon_pack: fas
       #     name: Zoom Me
