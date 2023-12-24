@@ -240,8 +240,7 @@ sections:
       text: |-
         Feel free to contact me via email! I'm glad to meet people all over the world.
       # Contact (add or remove contact options as necessary)
-      email: alex_shency@outlook.com
-      email(academic): 1155197436@link.cuhk.edu.hk
+      email: alex_shency@outlook.com / 1155197436@link.cuhk.edu.hk
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
@@ -260,10 +259,10 @@ sections:
       #   latitude: '37.4275'
       #   longitude: '-122.1697'  
       contact_links:
-        - icon: csdn
-          icon_pack: fab
-          name: DM Me
-          link: 'https://blog.csdn.net/pigpigpig64?spm=1000.2115.3001.5343'
+        # - icon: csdn
+        #   icon_pack: fab
+        #   name: DM Me
+        #   link: 'https://blog.csdn.net/pigpigpig64?spm=1000.2115.3001.5343'
         - icon: github
           icon_pack: fab
           name: Star me on Github
