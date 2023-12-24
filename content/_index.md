@@ -259,7 +259,7 @@ sections:
       # coordinates:
       #   latitude: '37.4275'
       #   longitude: '-122.1697'  
-      # contact_links:
+      contact_links:
         - icon: csdn
           icon_pack: fab
           name: DM Me
