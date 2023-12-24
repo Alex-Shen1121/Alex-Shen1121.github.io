@@ -241,7 +241,7 @@ sections:
         Feel free to contact me via email! I'm glad to meet people all over the world.
       # Contact (add or remove contact options as necessary)
       email(personal): alex_shency@outlook.com
-      emial(academic)：1155197436@link.cuhk.edu.hk
+      emial(academic): 1155197436@link.cuhk.edu.hk
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
