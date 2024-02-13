@@ -1,6 +1,7 @@
 ---
 title: Alex's Blog
 summary: A Personal Blog, recording my CS learning experience. `blog.codingshen.top`
+tags:
   - Other
 date: "2023-02-14T00:00:00Z"
 
