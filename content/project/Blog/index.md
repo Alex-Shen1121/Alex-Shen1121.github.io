@@ -1,7 +1,6 @@
 ---
-title: External Project 2
-summary: An example of linking directly to an external project website using `blog.codingshen.top`.
-tags:
+title: Alex's Blog
+summary: A Personal Blog, recording my CS learning experience. `blog.codingshen.top`
   - Other
 date: "2023-02-14T00:00:00Z"
 
