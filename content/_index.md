@@ -241,7 +241,7 @@ sections:
         Feel free to contact me via email! I'm glad to meet people all over the world.
       # Contact (add or remove contact options as necessary)
       email: alex_shency@outlook.com / 1155197436@link.cuhk.edu.hk 
-      # phone: 888 888 88 88
+      wechat: alexshen01
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
