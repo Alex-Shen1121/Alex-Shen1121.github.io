@@ -76,6 +76,15 @@ sections:
 
               * Analysing data
               * Deploying equipment anti-fraud model V1.1
+        - title: Backend Program Intern
+          company: Meituan
+          company_url: 'https://www.meituan.com'
+          company_logo: meituan
+          location: Shanghai, China
+          date_start: '2024-05-15'
+          date_end: '2024-09-01'
+          description: |2-
+              Marketing modules (campaign & coupon) in Meituan SaaS Department
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''
