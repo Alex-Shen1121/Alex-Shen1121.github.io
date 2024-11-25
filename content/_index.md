@@ -91,7 +91,6 @@ sections:
           company_logo: meituan
           location: Shanghai, China
           date_start: '2024-12-01'
-          date_end: 'now'
           description: |2-
               Marketing modules (campaign & coupon) in Meituan SaaS Department
         # - title: Professor of Semiconductor Physics
