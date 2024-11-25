@@ -114,5 +114,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Shen Chenyu is a master of science student in computer science in CUHK, before that, he received a bachelor degree in Shenzhen Univeristy. His research interests include software development, artificial intelligence and Data Science.
+He is currently working as a backend programmer in Meituan, Shanghai. He received his CS master degree in CUHK, 2024, before that, he received his CS BEng degree in Shenzhen Univeristy, 2023. His research interests include software development, artificial intelligence and Data Science.
 {style="text-align: justify;"}

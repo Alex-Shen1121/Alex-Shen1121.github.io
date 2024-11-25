@@ -85,6 +85,15 @@ sections:
           date_end: '2024-09-01'
           description: |2-
               Marketing modules (campaign & coupon) in Meituan SaaS Department
+        - title: Backend Programmer
+          company: Meituan
+          company_url: 'https://www.meituan.com'
+          company_logo: meituan
+          location: Shanghai, China
+          date_start: '2024-12-01'
+          date_end: 'now'
+          description: |2-
+              Marketing modules (campaign & coupon) in Meituan SaaS Department
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''
